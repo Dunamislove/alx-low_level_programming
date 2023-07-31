@@ -9,7 +9,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for 0x13.c project by alx
+ * for project by alx
  *
  */
 typedef struct listint_s
